@@ -16,3 +16,6 @@ Required equipments:
 2. [Reverse Engineering Unknown CAN bus Protocols](https://deadpacketsociety.net/Reverse-Engineering-Unknown-CANbus-Protocols/)
 3. [Awesome Large Language Model Tools for Cybersecurity Research](https://github.com/tenable/awesome-llm-cybersecurity-tools)
 4. [ASurveyonControllerAreaNetwork ReverseEngineering](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2023/ieeecomm23-buscemi.pdf)
+
+## Videos
+1. [How to Hack Your Mini Cooper: Reverse Engineering Controller Area Network (CAN) Messages](https://youtu.be/WuMJfQUDoOY?si=t3aSAMXoWS4cHYue)
