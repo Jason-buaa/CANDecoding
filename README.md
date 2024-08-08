@@ -1,5 +1,9 @@
 # CANDecoding
 Documents on how to do CAN reverse engineering
+## What is CAN Bus Reverse Engineering?
+
+CAN bus reverse engineering is the process of identifying  signal boundaries within frames and decoding their semantic meaning and format. 
+
 ## Basic procedure
 
 [CAN and CAN FD bus decoding](https://www.picotech.com/library/oscilloscopes/can-bus-serial-protocol-decoding)
