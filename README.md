@@ -2,7 +2,8 @@
 Documents on how to do CAN reverse engineering
 ## What is CAN Bus Reverse Engineering?
 
-CAN bus reverse engineering is the process of identifying  signal boundaries within frames and decoding their semantic meaning and format. 
+CAN bus reverse engineering is the process of identifying  signal boundaries within frames and decoding their semantic meaning and format. The goal of CAN reverse engineering is to determine
+the boundaries of the signals contained in the frames (known as tokenization) and discover their semantic meaning (translation). 
 
 ## Basic procedure
 
