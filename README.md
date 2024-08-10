@@ -5,6 +5,8 @@ Documents on how to do CAN reverse engineering
 CAN bus reverse engineering is the process of identifying  signal boundaries within frames and decoding their semantic meaning and format. The goal of CAN reverse engineering is to determine
 the boundaries of the signals contained in the frames (known as tokenization) and discover their semantic meaning (translation). 
 
+We define a Database CAN (DBC) obtained through manual reverse engineering as generated.
+
 ## Basic procedure
 
 [CAN and CAN FD bus decoding](https://www.picotech.com/library/oscilloscopes/can-bus-serial-protocol-decoding)
