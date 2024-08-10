@@ -7,6 +7,10 @@ the boundaries of the signals contained in the frames (known as tokenization) an
 
 We define a Database CAN (DBC) obtained through manual reverse engineering as generated.
 
+## Tokenization
+ The goal of tokenization is to identify the sequence of  bits that correspond to each signal within the payload of the  frames. The resulting output, the tokens, can be described as signals whose location in the payload is known but whose  semantic meaning and format have yet to be translated.
+ 
+
 ## Basic procedure
 
 [CAN and CAN FD bus decoding](https://www.picotech.com/library/oscilloscopes/can-bus-serial-protocol-decoding)
